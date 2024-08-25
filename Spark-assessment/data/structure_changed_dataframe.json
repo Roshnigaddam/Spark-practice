@@ -1,0 +1,30 @@
+[
+    {
+        "personal_data": {
+            "name": "john doe",
+            "dob": "01-01-1980",
+            "phone": null
+        }
+    },
+    {
+        "personal_data": {
+            "name": "john adam",
+            "dob": "01-01-1960",
+            "phone": 1234567890
+        }
+    },
+    {
+        "personal_data": {
+            "name": "alice smith",
+            "dob": "05-12-1995",
+            "phone": null
+        }
+    },
+    {
+        "personal_data": {
+            "name": "bob brown",
+            "dob": "03-03-1975",
+            "phone": 9876543210
+        }
+    }
+]
